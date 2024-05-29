@@ -16,7 +16,7 @@ This is a API project made with Django, and without Django REST framework.
 * Run the migrations.
 
 ```
-cd django-api-without-drf
+cd criando-api-com-django
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
